@@ -18,5 +18,5 @@ Passionate about problem-solving, software development, and just making cool stu
 
 ### What am I up to?
 **Academics:** Studying Computer Science at Cal Poly.  
-**Currently Learning:** Introductory cybersecurity, teaching computing, game dev with Godot.  
+**Currently Learning:** Databases, Relational Algebra, React, Godot game engine.  
 **Creating:** GET REAL: A weird RPG about gutter punks, magic portals, and government conspiracies.  
