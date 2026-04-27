@@ -1,5 +1,4 @@
-## Hey! 👋  
-## I'm Dylan.  
+## Hey! 👋 I'm Dylan.  
 Computers are my favorite magic system.
 Passionate about problem-solving, the intricacies of computing, and just making cool stuff.
 
