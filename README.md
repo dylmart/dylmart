@@ -23,4 +23,4 @@ Passionate about problem-solving, the intricacies of computing, and just making 
 ## 🔭 What Am I Up To?
 **Academics:** Studying Computer Science at Cal Poly.  
 **Currently Learning:** Databases, Relational Algebra, React, Godot game engine.  
-**Creating:** GET REAL: a RPG about gutter punks who find a magic portal to the mysical land of Gern.
+**Creating:** GET REAL: an RPG about gutter punks who find a magic portal to the mysical land of Gern.
