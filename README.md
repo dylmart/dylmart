@@ -19,8 +19,3 @@ Passionate about problem-solving, the intricacies of computing, and just making 
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat-square&logo=git&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot-478CBF.svg?style=flat-square&logo=godot-engine&logoColor=white)
-
-## What Am I Up To?
-**Academics:** Studying Computer Science at Cal Poly.  
-**Currently Learning:** Databases, Relational Algebra, React, Godot game engine.  
-**Creating:** GET REAL: an RPG about gutter punks who find a magic portal to the mysical land of Gern.
